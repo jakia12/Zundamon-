@@ -65,7 +65,7 @@
                           }),
                           (0, r.jsx)("a", {
                             target: "_blank",
-                            href: "chartlink",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x80779c68cb246f43765821db6fec47f6edfc4444?t=1756033854688",
                             className:
                               "py-2 px-8 bg-black text-white rounded-full",
                             children: "Chart",
