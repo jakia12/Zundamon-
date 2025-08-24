@@ -51,7 +51,7 @@
                       (0, r.jsx)("div", {
                         className: "max-w-[600px] w-full mt-4",
                         children:
-                          "Zundamon (ずんだもん) is a fictional sprite character inspired by zunda-mochi (sweet edamame paste mochi), created as a mascot and virtual voice persona.",
+                          "Zundamon (ずんだもん) is a fictional sprite character inspired by zunda-mochi , a mascot and virtual voice of #BNB Chain.",
                       }),
                       (0, r.jsxs)("div", {
                         className: "flex flex-wrap gap-4 items-center mt-4",
@@ -83,7 +83,7 @@
                           }),
                           (0, r.jsx)("a", {
                             target: "_blank",
-                            href: "ttlink",
+                            href: "https://x.com/ZundamonBNB",
                             className: "p-3 bg-black text-white rounded-full",
                             children: (0, r.jsx)(a.fWC, {}),
                           }),
@@ -105,7 +105,8 @@
                           " ",
                           (0, r.jsx)("span", {
                             className: "text-xs sm:text-base",
-                            children: "0x000000000000000000000000",
+                            children:
+                              "0x80779c68cb246f43765821db6fec47f6edfc4444",
                           }),
                         ],
                       }),
